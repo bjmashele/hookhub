@@ -1,0 +1,60 @@
+[     422ms] [INFO] {browserVersion: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36} {file: /index.js} {_label: INFO} storeTid: no storage consent, clearing stored TID @ https://www.cnn.com/:24143
+[     487ms] [LOG] AdFuelError event fired: CustomEvent @ https://www.cnn.com/media/sites/js/bundles/cnn-adfuel-body-5f8456dd90f337d8b0a845f67d8bc25678fc94a99035b264f3839d14ac51348d.min.js:0
+[     487ms] [ERROR] %c TOS was NOT accepted, AdFuel will not load. background: red;color:white; @ https://www.cnn.com/media/sites/js/bundles/cnn-adfuel-body-5f8456dd90f337d8b0a845f67d8bc25678fc94a99035b264f3839d14ac51348d.min.js:0
+[     487ms] [LOG] AdFuelError event fired: CustomEvent @ https://www.cnn.com/media/sites/js/bundles/cnn-adfuel-body-5f8456dd90f337d8b0a845f67d8bc25678fc94a99035b264f3839d14ac51348d.min.js:0
+[     767ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:86
+[     769ms] [ERROR] Not signed in with the identity provider. @ https://www.cnn.com/:0
+[     959ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87
+[    1066ms] [ERROR] FAVE -->> KeyValueStore: Error invoking key/value pair function. TypeError: window.turner_getGuid is not a function
+    at https://www.cnn.com/:23955:1088
+    at v._processKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:162519)
+    at v.getKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:164370)
+    at R._updateAdKvpsConfig (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:137791)
+    at R._updateAudioKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:222226)
+    at R._setSound (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:212569)
+    at R._handleCallback (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:206073)
+    at https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:177170 @ https://registry.api.cnn.io/bundles/fave/latest-4.x/js:0
+[    1068ms] [ERROR] FAVE -->> KeyValueStore: Error invoking key/value pair function. TypeError: window.turner_getGuid is not a function
+    at https://www.cnn.com/:23955:1088
+    at v._processKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:162519)
+    at v.getKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:164370)
+    at R._updateAdKvpsConfig (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:137791)
+    at R._updateAudioKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:222226)
+    at R._setAdsConfigurations (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:185413)
+    at R._setAdsConfigurations (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:134788)
+    at R._setSource (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:130621)
+    at R._loadMedia (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:130341)
+    at Object.<anonymous> (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:182108) @ https://registry.api.cnn.io/bundles/fave/latest-4.x/js:0
+[    1068ms] [ERROR] FAVE -->> KeyValueStore: Error invoking key/value pair function. TypeError: window.turner_getGuid is not a function
+    at https://www.cnn.com/:23955:1088
+    at v._processKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:162519)
+    at v.getKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:164370)
+    at R._setAdsConfigurations (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:185713)
+    at async R._setAdsConfigurations (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:134776)
+    at async R._setSource (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:130610) @ https://registry.api.cnn.io/bundles/fave/latest-4.x/js:0
+[    1074ms] [LOG] MMSmartStreaming- Web SDK 2.2.1 @ https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:0
+[    1085ms] [ERROR] FAVE -->> KeyValueStore: Error invoking key/value pair function. TypeError: window.turner_getGuid is not a function
+    at https://www.cnn.com/:23955:1088
+    at v._processKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:162519)
+    at v.getKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:164370)
+    at R._updateAdKvpsConfig (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:137791)
+    at R._updateAudioKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:222226)
+    at https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:194626
+    at i.execute (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1145441)
+    at o.dispatch (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1147545)
+    at o.dispatch (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1145266)
+    at l._onPlayerVolumeChange (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:249030) @ https://registry.api.cnn.io/bundles/fave/latest-4.x/js:0
+[    1086ms] [ERROR] FAVE -->> KeyValueStore: Error invoking key/value pair function. TypeError: window.turner_getGuid is not a function
+    at https://www.cnn.com/:23955:1088
+    at v._processKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:162519)
+    at v.getKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:164370)
+    at R._updateAdKvpsConfig (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:137791)
+    at R._updateAudioKeyValuePairs (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:222226)
+    at https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:194795
+    at i.execute (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1145441)
+    at o.dispatch (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1147545)
+    at o.dispatch (https://registry.api.cnn.io/bundles/fave/vendor-9a61dccb/vendor:1:1145266)
+    at l._onPlayerMuteChange (https://registry.api.cnn.io/bundles/fave/boltInstance-c6f4030e/boltInstance:1:249100) @ https://registry.api.cnn.io/bundles/fave/latest-4.x/js:0
+[    1516ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c0063daf/boltPlayer:0
+[    1615ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://registry.api.cnn.io/bundles/fave/boltPlayer-c0063daf/boltPlayer:0
+[    2328ms] [TIMEEND] a: 0.0009765625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31

@@ -1,0 +1,1397 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - navigation [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - button "Open Menu Icon" [ref=e10]
+            - link "CNN logo" [ref=e14] [cursor=pointer]:
+              - /url: https://www.cnn.com
+            - navigation [ref=e19]:
+              - generic [ref=e20]:
+                - link "US" [ref=e22] [cursor=pointer]:
+                  - /url: https://www.cnn.com/us
+                - link "World" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.cnn.com/world
+                - link "Politics" [ref=e26] [cursor=pointer]:
+                  - /url: https://www.cnn.com/politics
+                - link "Business" [ref=e28] [cursor=pointer]:
+                  - /url: https://www.cnn.com/business
+                - link "Health" [ref=e30] [cursor=pointer]:
+                  - /url: https://www.cnn.com/health
+                - link "Entertainment" [ref=e32] [cursor=pointer]:
+                  - /url: https://www.cnn.com/entertainment
+                - link "Underscored" [ref=e34] [cursor=pointer]:
+                  - /url: https://www.cnn.com/cnn-underscored
+                - link "Style" [ref=e36] [cursor=pointer]:
+                  - /url: https://www.cnn.com/style
+                - link "Travel" [ref=e38] [cursor=pointer]:
+                  - /url: https://www.cnn.com/travel
+                - generic [ref=e39]: More
+          - generic [ref=e41]:
+            - link "Watch" [ref=e42] [cursor=pointer]:
+              - /url: https://www.cnn.com/subscription/all-access?source=sub_web_wall-wat-nav
+            - link "Listen" [ref=e43] [cursor=pointer]:
+              - /url: https://www.cnn.com/audio
+            - button "Search Icon" [ref=e44]
+            - link "Subscribe Button" [ref=e47] [cursor=pointer]: Subscribe
+            - navigation "User Account Nav" [ref=e49]:
+              - link "User Account Log In Button" [ref=e51] [cursor=pointer]: Sign in
+        - separator [ref=e52]
+  - generic [ref=e53]:
+    - main [ref=e56]:
+      - generic [ref=e60]:
+        - list [ref=e67]:
+          - listitem [ref=e68]:
+            - link [ref=e69] [cursor=pointer]:
+              - /url: /2026/09/10/politics/5000-checks-trump
+              - generic [ref=e70]:
+                - generic [ref=e71]:
+                  - generic [ref=e72]: "Trending:"
+                  - text: Trump check fallout
+                - text: "|"
+          - listitem [ref=e73]:
+            - link "Buildings sinking |" [ref=e74] [cursor=pointer]:
+              - /url: /2026/09/11/climate/london-subsidence-heat-clay-soil-sinking-insurance
+              - generic [ref=e75]:
+                - generic [ref=e76]: Buildings sinking
+                - text: "|"
+          - listitem [ref=e77]:
+            - link "Inflation heats up |" [ref=e78] [cursor=pointer]:
+              - /url: /2026/09/11/economy/cpi-inflation-august
+              - generic [ref=e79]:
+                - generic [ref=e80]: Inflation heats up
+                - text: "|"
+          - listitem [ref=e81]:
+            - link "Supreme Court custody battle |" [ref=e82] [cursor=pointer]:
+              - /url: /2026/09/10/us/surrogate-custody-battle-supreme-court
+              - generic [ref=e83]:
+                - generic [ref=e84]: Supreme Court custody battle
+                - text: "|"
+          - listitem [ref=e85]:
+            - link "CDC alert |" [ref=e86] [cursor=pointer]:
+              - /url: /2026/09/11/health/rabies-increase-us-cdc-alert-wellness
+              - generic [ref=e87]:
+                - generic [ref=e88]: CDC alert
+                - text: "|"
+          - listitem [ref=e89]:
+            - link [ref=e90] [cursor=pointer]:
+              - /url: /cnn-underscored/gifts/best-advent-calendar
+              - generic [ref=e92]:
+                - generic [ref=e93]: "CNN Underscored:"
+                - text: Best Advent calenders
+        - generic [ref=e96]:
+          - generic [ref=e99]:
+            - list [ref=e103]:
+              - listitem [ref=e104]:
+                - link "U.S. Vice President JD Vance speaks during the Republican National Midterm Convention in Dallas, Texas, U.S., September 10, 2026. REUTERS/Eric Lee/Pool Analysis" [ref=e105] [cursor=pointer]:
+                  - /url: /2026/09/11/politics/jd-vance-trump-midterms
+                  - generic [ref=e107]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "U.S. Vice President JD Vance speaks during the Republican National Midterm Convention in Dallas, Texas, U.S., September 10, 2026. REUTERS/Eric Lee/Pool"
+                      - generic: Analysis
+                - link "JD Vance’s nuanced midterm pitch is undermined by Trump" [ref=e110] [cursor=pointer]:
+                  - /url: /2026/09/11/politics/jd-vance-trump-midterms
+            - list [ref=e117]:
+              - listitem [ref=e118]:
+                - link "Streaming Now" [ref=e119] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2573118?episode=2599485&source=subwall:vod:episode-2599485
+                - 'link "‘It hurt so much’: How ICE’s new weapon works" [ref=e124] [cursor=pointer]':
+                  - /url: https://www.cnn.com/videos/title-2573118?episode=2599485&source=subwall:vod:episode-2599485
+            - list [ref=e131]:
+              - listitem [ref=e132]:
+                - link [ref=e133] [cursor=pointer]:
+                  - /url: /2026/09/11/politics/mike-johnson-house-recess-ai
+                  - generic [ref=e135]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Speaker of the House Mike Johnson speaks during a news conference at the US Capitol Building on September 01, in Washington, DC."
+                - link "House Dems urge Speaker to cancel recess to pass AI safeguards, citing ‘catastrophic’ risk" [ref=e136] [cursor=pointer]:
+                  - /url: /2026/09/11/politics/mike-johnson-house-recess-ai
+              - listitem [ref=e140]:
+                - link "Lawmakers look to stave off AI catastrophe with ‘Kill Switch’ bill 3:17" [ref=e141] [cursor=pointer]:
+                  - /url: /2026/09/11/us/video/ebof-ai-kill-switch-act-ted-lieu
+                  - generic [ref=e143]:
+                    - generic [ref=e144]: Lawmakers look to stave off AI catastrophe with ‘Kill Switch’ bill
+                    - generic [ref=e145]: 3:17
+          - generic [ref=e149]:
+            - generic [ref=e150]:
+              - link [ref=e152] [cursor=pointer]:
+                - /url: /2026/09/11/politics/saudi-arabian-oil-pipeline-hit-by-projectiles-triggering-fires
+                - heading "Saudi Arabia shuts down key oil pipeline after attack" [level=2] [ref=e153]
+              - list [ref=e156]:
+                - listitem [ref=e157]:
+                  - link "EUMETSAT" [ref=e158] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/saudi-arabian-oil-pipeline-hit-by-projectiles-triggering-fires
+                  - link "Attack threatens kingdom’s oil exports as Iran War continues" [ref=e161] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/saudi-arabian-oil-pipeline-hit-by-projectiles-triggering-fires
+                - listitem [ref=e165]:
+                  - link "Iranian allies captured a strategic Red Sea island in a vital waterway. Here’s what to know" [ref=e166] [cursor=pointer]:
+                    - /url: /2026/09/10/middleeast/houthis-capture-mocha-red-sea-strait-intl
+                - listitem [ref=e170]:
+                  - link "CNN’s Erin Burnett explains the economic impact of the pipeline shutdown 2:50" [ref=e171] [cursor=pointer]:
+                    - /url: /2026/09/11/world/video/ebof-saudi-pipeline-attack-trump-economy-impact
+                    - generic [ref=e173]:
+                      - generic [ref=e174]: CNN’s Erin Burnett explains the economic impact of the pipeline shutdown
+                      - generic [ref=e175]: 2:50
+                - listitem [ref=e177]:
+                  - 'link "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast" [ref=e178] [cursor=pointer]':
+                    - /url: /2026/09/12/middleeast/yemen-houthi-saudi-us-blame-intl
+            - generic [ref=e182]:
+              - heading "REMEMBERING SEPTEMBER 11th" [level=2] [ref=e184]
+              - list [ref=e187]:
+                - listitem [ref=e188]:
+                  - link [ref=e189] [cursor=pointer]:
+                    - /url: /2026/09/11/us/live-news/9-11-anniversary
+                    - generic [ref=e191]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "People gather at the Veterans memorial at the 9/11 Memorial on the day of a ceremony marking the 25th anniversary of the September 11, 2001 attacks on the World Trade Center, in New York City, U.S., September 11, 2026. REUTERS/Brendan McDermid TPX IMAGES OF THE DAY"
+                  - link "America marks the 25th anniversary of 9/11" [ref=e192] [cursor=pointer]:
+                    - /url: /2026/09/11/us/live-news/9-11-anniversary
+                - listitem [ref=e196]:
+                  - link [ref=e197] [cursor=pointer]:
+                    - /url: /2026/09/11/us/mamdani-aoc-video-9-11-ceremony
+                    - generic [ref=e199]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - 'img "Zohran Mamdani, mayor of New York, center right, and Rudy Giuliani, former mayor of New York, center left, arrive ahead of the 25th anniversary commemoration ceremony at the National 9/11 Memorial and Museum in New York, US, on Friday, Sept. 11, 2026. Families and officials returned to the World Trade Center site on Friday to mark the 25th anniversary of the terrorist attacks on the United States on Sept. 11, 2001. Photographer: Michael Nagle/Bloomberg via Getty Images"'
+                  - link "Brief interaction between NYC Mayor Mamdani and AOC captured on video at 9/11 ceremony stirs up debate" [ref=e200] [cursor=pointer]:
+                    - /url: /2026/09/11/us/mamdani-aoc-video-9-11-ceremony
+                - listitem [ref=e204]:
+                  - link [ref=e205] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/cia-declassifies-intel-warnings-white-house-prior-9-11-attack
+                    - generic [ref=e207]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "The twin towers of the World Trade Center burn on September 11, 2001."
+                  - link "CIA declassifies intel warnings to White House prior to 9/11 attack" [ref=e208] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/cia-declassifies-intel-warnings-white-house-prior-9-11-attack
+          - generic [ref=e214]:
+            - list [ref=e218]:
+              - listitem [ref=e219]:
+                - generic [ref=e225]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN_Headlines_Placeholder_Generic.png"
+                - link "Catch up on today’s headlines" [ref=e226] [cursor=pointer]:
+                  - /url: https://www.cnn.com/watch
+            - generic [ref=e231]:
+              - heading "ON THE COURT" [level=2] [ref=e233]
+              - list [ref=e236]:
+                - listitem [ref=e237]:
+                  - link [ref=e238] [cursor=pointer]:
+                    - /url: /2026/09/11/sport/mens-2026-us-open-semifinal
+                    - generic [ref=e240]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Ben Shelton will look to become the first American man to win the US Open since 2003 on Sunday."
+                  - link "Ben Shelton overpowers ‘big brother’ Frances Tiafoe and will face top seed Alexander Zverev in US Open final" [ref=e241] [cursor=pointer]:
+                    - /url: /2026/09/11/sport/mens-2026-us-open-semifinal
+                - listitem [ref=e245]:
+                  - link "More than 50 years after Arthur Ashe, Black men’s tennis players reflect on a historic US Open breakthrough" [ref=e246] [cursor=pointer]:
+                    - /url: /2026/09/11/sport/us-open-black-american-men-history
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - link [ref=e255] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2599594?episode=2599618&source=subwall:vod:episode-2599618&iid=related-embed_streaming-now
+                  - generic [ref=e257]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "1. All Access Horizontal with series logo (6).png"
+                - link "Is everybody’s anger about nepo babies actually about the end of upward mobility?" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2599594?episode=2599618&source=subwall:vod:episode-2599618&iid=related-embed_streaming-now
+        - generic [ref=e264]:
+          - heading [level=2] [ref=e265]:
+            - link "Subscribe to stream the full CNN experience" [ref=e266] [cursor=pointer]:
+              - /url: https://www.cnn.com/watch
+          - generic [ref=e267]:
+            - list [ref=e276]:
+              - listitem [ref=e277]:
+                - link [ref=e278] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2100200?iid=related-embed_streaming-now
+                  - generic [ref=e280]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "911_Amazon_CoverArt_3840x2160 (1).png"
+                      - generic: CNN
+                - 'link "25 years later: The perspective of first responders who answered the call" [ref=e281] [cursor=pointer]':
+                  - /url: https://www.cnn.com/videos/title-2100200?iid=related-embed_streaming-now
+            - list [ref=e291]:
+              - listitem [ref=e292]:
+                - link [ref=e293] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2600857?iid=related-embed_streaming-now
+                  - generic [ref=e295]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "9-11_1440x810_Texted_Homepage_feature_card.png"
+                - link "Filmmakers who captured 9/11 reflect on that day" [ref=e296] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2600857?iid=related-embed_streaming-now
+              - listitem [ref=e300]:
+                - link [ref=e301] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2599145?episode=2599171&source=subwall:vod:episode-2599171&iid=related-embed_streaming-now
+                - link "A test of Latino clout in Colorado" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2599145?episode=2599171&source=subwall:vod:episode-2599171&iid=related-embed_streaming-now
+              - listitem [ref=e308]:
+                - link [ref=e309] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2601012?iid=related-embed_streaming-now
+                  - generic [ref=e311]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "1440x810 - Texted Key Art for Show Page (21).jpg"
+                - link "Tilly Norwood is finally ready to talk" [ref=e312] [cursor=pointer]:
+                  - /url: https://www.cnn.com/videos/title-2601012?iid=related-embed_streaming-now
+              - listitem [ref=e316]:
+                - link [ref=e317] [cursor=pointer]:
+                  - /url: https://www.cnn.com/watch?source=sub_web_wa
+                - link "Live Watch CNN" [ref=e320] [cursor=pointer]:
+                  - /url: https://www.cnn.com/watch?source=sub_web_wa
+                  - generic [ref=e322]:
+                    - generic [ref=e323]: Live
+                    - generic [ref=e326]: Watch CNN
+        - generic [ref=e329]:
+          - generic [ref=e333]:
+            - heading "More Top Stories" [level=2] [ref=e335]
+            - list [ref=e338]:
+              - listitem [ref=e339]:
+                - link [ref=e340] [cursor=pointer]:
+                  - /url: /2026/09/11/entertainment/nashville-airport-renaming-dolly-parton-hnk
+                  - generic [ref=e342]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A couple in the terminal gate area at Nashville International Airport in Nashville on September 4, 2019."
+                - link "GOP and Democratic officials in Nashville unite over renaming airport for Dolly Parton" [ref=e343] [cursor=pointer]:
+                  - /url: /2026/09/11/entertainment/nashville-airport-renaming-dolly-parton-hnk
+              - listitem [ref=e347]:
+                - link "Rapper Lil Durk acquitted of murder-for-hire at Los Angeles trial" [ref=e348] [cursor=pointer]:
+                  - /url: /2026/09/11/us/lil-durk-acquitted-murder-for-hire-hnk
+              - listitem [ref=e352]:
+                - link "Mississippi police make arrest in Tasia Fortune case after medical examiner rules death a homicide" [ref=e353] [cursor=pointer]:
+                  - /url: /2026/09/11/us/tasia-fortune-homicide
+              - listitem [ref=e357]:
+                - link "Trump on 9/11 reposts video of him asking January 6 rioters to go home" [ref=e358] [cursor=pointer]:
+                  - /url: /2026/09/11/politics/trump-capitol-riot-video-9-11
+              - listitem [ref=e362]:
+                - link "UK man pleads guilty to using online forum to encourage sexual assault of unconscious women" [ref=e363] [cursor=pointer]:
+                  - /url: /2026/09/11/europe/uk-man-pleads-guilty-online-chatroom-assault-latam-intl
+              - listitem [ref=e367]:
+                - link "Over 2,000 pounds of meth found hidden in shipment of cabbage 0:32" [ref=e368] [cursor=pointer]:
+                  - /url: /2026/09/11/us/video/dea-cabbage-meth-vrtc
+                  - generic [ref=e370]:
+                    - generic [ref=e371]: Over 2,000 pounds of meth found hidden in shipment of cabbage
+                    - generic [ref=e372]: 0:32
+          - generic [ref=e377]:
+            - generic [ref=e378]:
+              - heading "Immigration" [level=2] [ref=e380]
+              - list [ref=e383]:
+                - listitem [ref=e384]:
+                  - link [ref=e385] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/justice-department-deportation-isis-afganistan-secretive-terrorist-court
+                    - generic [ref=e387]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Then-Deputy Attorney General Todd Blanche attends a news conference at the Justice Department in November."
+                        - generic: Andrew Harnik/Getty Images/FILE
+                  - link "Justice Department secures deportation order in first-of-its-kind case brought in secretive court" [ref=e388] [cursor=pointer]:
+                    - /url: /2026/09/11/politics/justice-department-deportation-isis-afganistan-secretive-terrorist-court
+            - generic [ref=e392]:
+              - heading "Politics" [level=2] [ref=e394]
+              - list [ref=e397]:
+                - listitem [ref=e398]:
+                  - link "President Donald Trump speaks at the GOP Midterm Convention, at American Airlines Center in Dallas, Texas, on Thursday, September 10, 2026. Fact Check" [ref=e399] [cursor=pointer]:
+                    - /url: /2026/09/10/politics/fact-check-republican-midterm-convention-night-2
+                    - generic [ref=e401]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "President Donald Trump speaks at the GOP Midterm Convention, at American Airlines Center in Dallas, Texas, on Thursday, September 10, 2026."
+                        - generic: Fact Check
+                  - link "Trump, RFK Jr. and others make false claims on night 2 of GOP convention" [ref=e404] [cursor=pointer]:
+                    - /url: /2026/09/10/politics/fact-check-republican-midterm-convention-night-2
+                - listitem [ref=e408]:
+                  - link [ref=e409] [cursor=pointer]:
+                    - /url: /2026/09/10/media/james-talarico-jimmy-kimmel-fcc-trump-brendan-carr
+                    - generic [ref=e411]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Democratic Senate candidate James Talarico speaks at a rally on Monday, July 13, 2026, in Eagle Pass, Texas."
+                  - link "James Talarico blasts Trump FCC’s ‘dangerous’ cancel culture over Kimmel interview ordeal" [ref=e412] [cursor=pointer]:
+                    - /url: /2026/09/10/media/james-talarico-jimmy-kimmel-fcc-trump-brendan-carr
+          - generic [ref=e421]:
+            - heading "CNN Underscored" [level=2] [ref=e425]
+            - list [ref=e428]:
+              - listitem [ref=e429]:
+                - link [ref=e430] [cursor=pointer]:
+                  - /url: /cnn-underscored/health-fitness/best-pillows-for-snoring
+                  - generic [ref=e432]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Two anti-snore pillows."
+                - link "These 11 pillows can put an end to your snoring" [ref=e433] [cursor=pointer]:
+                  - /url: /cnn-underscored/health-fitness/best-pillows-for-snoring
+              - listitem [ref=e437]:
+                - link [ref=e438] [cursor=pointer]:
+                  - /url: /cnn-underscored/deals/apple-deals-2026-09-09
+                  - generic [ref=e440]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "iPhone 17 Pro MagSafe Charger.jpg"
+                - link "Apple revealed its new iPhone 18, but these older AirPods and accessories are on sale" [ref=e441] [cursor=pointer]:
+                  - /url: /cnn-underscored/deals/apple-deals-2026-09-09
+              - listitem [ref=e445]:
+                - link [ref=e446] [cursor=pointer]:
+                  - /url: /cnn-underscored/reviews/best-flashlight
+                  - generic [ref=e448]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Thrunite Archer 2A V3 - 2 (lead image).jpg"
+                - link "I’ve tested flashlights for years, and this one is still my favorite" [ref=e449] [cursor=pointer]:
+                  - /url: /cnn-underscored/reviews/best-flashlight
+        - generic [ref=e456]:
+          - heading "Across our coverage" [level=2] [ref=e457]
+          - generic [ref=e458]:
+            - list [ref=e465]:
+              - listitem [ref=e466]:
+                - link "Quiz 80% of readers who took this week’s news quiz got 8 or more questions right. How will you do?" [ref=e467] [cursor=pointer]:
+                  - /url: https://www.cnn.com/interactive/2026/09/us/cnn-5-things-news-quiz-september-10-sec
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: Quiz
+                    - generic [ref=e471]: 80% of readers who took this week’s news quiz got 8 or more questions right. How will you do?
+              - listitem [ref=e472]:
+                - link "Gallery The week in 35 photos" [ref=e473] [cursor=pointer]:
+                  - /url: /2026/09/11/world/gallery/photos-this-week-september-3-september-10
+                  - generic [ref=e475]:
+                    - generic [ref=e476]: Gallery
+                    - generic [ref=e477]: The week in 35 photos
+              - listitem [ref=e478]:
+                - link "If a genetic test could predict your future health? Would you want to know?" [ref=e479] [cursor=pointer]:
+                  - /url: /world/would-you-test-your-newborn-for-a-disease-that-might-strike-years-later-spc
+              - listitem [ref=e483]:
+                - link "It’s not impossible to get kids to use social media less. Here’s what seems to work" [ref=e484] [cursor=pointer]:
+                  - /url: /2026/09/11/health/social-media-warnings-wellness
+              - listitem [ref=e488]:
+                - link "Scientists look inside the ‘spider’ growing on the tip of a rare viper’s tail" [ref=e489] [cursor=pointer]:
+                  - /url: /2026/09/11/science/spider-tailed-horned-viper-study
+            - generic [ref=e496]:
+              - heading "All There Is" [level=2] [ref=e498]
+              - list [ref=e501]:
+                - listitem [ref=e502]:
+                  - link [ref=e503] [cursor=pointer]:
+                    - /url: https://www.cnn.com/all-there-is-anderson-cooper
+                    - generic [ref=e505]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "ATIL_MeganKilbane_thumb_withlogo.png"
+                        - generic: CNN
+                  - link "A mother shares the ‘deep hollowness’ of grieving her 8-year-old daughter" [ref=e506] [cursor=pointer]:
+                    - /url: https://www.cnn.com/all-there-is-anderson-cooper
+        - heading [level=2] [ref=e522]:
+          - link "CNN Underscored" [ref=e523] [cursor=pointer]:
+            - /url: https://www.cnn.com/cnn-underscored
+        - generic [ref=e543]:
+          - link [ref=e545] [cursor=pointer]:
+            - /url: https://bleacherreport.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+            - heading "Bleacher Report" [level=2] [ref=e546]
+          - list [ref=e551]:
+            - listitem [ref=e552]:
+              - link [ref=e553] [cursor=pointer]:
+                - /url: https://bleacherreport.com/articles/25497274-2026-week-2-college-football-predictions-every-game?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+                - generic [ref=e555]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Picks for every Week 2 college football matchup"
+              - 'link "CFB Week 2: Picks for OSU-Texas and more" [ref=e556] [cursor=pointer]':
+                - /url: https://bleacherreport.com/articles/25497274-2026-week-2-college-football-predictions-every-game?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+            - listitem [ref=e560]:
+              - link "Giannis, Klay Thompson bonding on boat trip" [ref=e561] [cursor=pointer]:
+                - /url: https://bleacherreport.com/articles/25498432-giannis-posts-new-photos-klay-thompson-heat-teammates-boat-during-team-bonding-trip?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+            - listitem [ref=e565]:
+              - link "Ben Shelton starstruck at US Open semifinal" [ref=e566] [cursor=pointer]:
+                - /url: https://bleacherreport.com/articles/25498428-ben-shelton-starstruck-jalen-brunson-video-after-knicks-star-attends-us-open-win-vs-tiafoe?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+            - listitem [ref=e570]:
+              - link "Kawhi Leonard trade still incomplete" [ref=e571] [cursor=pointer]:
+                - /url: https://bleacherreport.com/articles/25498031-new-kawhi-leonard-rumors-reveal-raptors-are-eager-complete-trade-clippers-after-nba-probe?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+            - listitem [ref=e575]:
+              - link "NFL team forced to use QB3" [ref=e576] [cursor=pointer]:
+                - /url: https://bleacherreport.com/articles/25498333-tua-tagovailoa-out-falcons-vs-steelers-latest-injury-updates-cooper-rush-set-start?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial
+        - heading [level=2] [ref=e586]:
+          - link "Politics" [ref=e587] [cursor=pointer]:
+            - /url: https://www.cnn.com/politics
+        - link [ref=e601] [cursor=pointer]:
+          - /url: https://www.cnn.com/weather
+          - img "logo_1080_1x (1).png" [ref=e605]
+        - generic [ref=e634]:
+          - heading "For Subscribers" [level=2] [ref=e636]
+          - generic:
+            - generic:
+              - list
+        - heading [level=2] [ref=e639]:
+          - link "Travel" [ref=e640] [cursor=pointer]:
+            - /url: https://www.cnn.com/travel
+        - heading "Entertainment and Style" [level=2] [ref=e650]
+        - generic [ref=e661]:
+          - heading "CNN Shorts" [level=2] [ref=e663]
+          - list [ref=e667]:
+            - listitem [ref=e668]:
+              - link [ref=e669] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/dc-single-mother-missing-vrtc
+                - generic [ref=e671]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "antoinette forbes vrtc.jpg"
+                    - generic: 1:03
+              - link "DC mother vanishes without a trace":
+                - /url: /2026/09/11/us/video/dc-single-mother-missing-vrtc
+            - listitem [ref=e672]:
+              - link [ref=e673] [cursor=pointer]:
+                - /url: /2026/09/11/world/video/gaza-documentary-standing-ovation-venice-vrtc
+                - generic [ref=e675]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "standing ovation venice.jpg"
+                    - generic: 1:17
+              - link "Gaza documentary gets 24-minute standing ovation":
+                - /url: /2026/09/11/world/video/gaza-documentary-standing-ovation-venice-vrtc
+            - listitem [ref=e676]:
+              - link [ref=e677] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/charlie-kirk-statue-times-square-digvid-vrtc
+                - generic [ref=e679]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22975776 - kirk statue vv.00_00_51_26.Still001.jpg"
+                    - generic: 1:03
+              - link "Charlie Kirk statue draws supporters to Times Square":
+                - /url: /2026/09/11/us/video/charlie-kirk-statue-times-square-digvid-vrtc
+            - listitem [ref=e680]:
+              - link [ref=e681] [cursor=pointer]:
+                - /url: /2026/09/11/world/video/robots-protest-ai-in-poland-digvid-vrtc
+                - generic [ref=e683]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22976307 - Robot AI protest.00_00_15_12.Still001.jpg"
+                    - generic: 0:38
+              - link "Robots in Poland ‘protest’ against AI":
+                - /url: /2026/09/11/world/video/robots-protest-ai-in-poland-digvid-vrtc
+            - listitem [ref=e684]:
+              - link [ref=e685] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/lindsay-was-failed-says-juror-who-served-in-trial-vrtc
+                - generic [ref=e687]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "clancy juror thumb.jpg"
+                    - generic: 0:54
+              - link "‘Lindsay was failed,’ says juror who served in trial":
+                - /url: /2026/09/11/us/video/lindsay-was-failed-says-juror-who-served-in-trial-vrtc
+            - listitem [ref=e688]:
+              - link [ref=e689] [cursor=pointer]:
+                - /url: /2026/09/11/business/video/trumps-5k-payments-high-national-debt-digvid-vrtc
+                - generic [ref=e691]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "5k Payment Problems-Clean-digvid-vrtc.jpg"
+                    - generic: 1:25
+              - link "Trump’s $5K payments would add to sky-high national debt":
+                - /url: /2026/09/11/business/video/trumps-5k-payments-high-national-debt-digvid-vrtc
+            - listitem [ref=e692]:
+              - link [ref=e693] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/dea-cabbage-meth-vrtc
+                - generic [ref=e695]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22977635 - meth cabbage vrtc.00_00_18_05.Still001.png"
+                    - generic: 0:32
+              - link "Over 2,000 pounds of meth found hidden in shipment of cabbage, DEA says":
+                - /url: /2026/09/11/us/video/dea-cabbage-meth-vrtc
+            - listitem [ref=e696]:
+              - link [ref=e697] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/9-11-son-islamophobia-vrtc-digvid
+                - generic [ref=e699]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22977805 - 9-11 son cln.00_00_39_09.Still001.jpg"
+                    - generic: 1:05
+              - link "Son of 9/11 victim calls out Islamophobia":
+                - /url: /2026/09/11/us/video/9-11-son-islamophobia-vrtc-digvid
+            - listitem [ref=e700]:
+              - link [ref=e701] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/moment-cnn-reported-9-11-2001-attacks-wtc-vrtc
+                - generic [ref=e703]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22977414 - 9-11 CNN news Clean Thumbnail vrtc0.jpg"
+                    - generic: 0:47
+              - link "The moment CNN first reported 9/11 attacks":
+                - /url: /2026/09/11/us/video/moment-cnn-reported-9-11-2001-attacks-wtc-vrtc
+            - listitem [ref=e704]:
+              - link [ref=e705] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/condoleezza-rice-september-eleventh-digvid-vrtc
+                - generic [ref=e707]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "still.vrtc.png"
+                    - generic: 0:44
+              - link "Condoleezza Rice says she feels ‘deep personal remorse’ for 9/11":
+                - /url: /2026/09/11/us/video/condoleezza-rice-september-eleventh-digvid-vrtc
+            - listitem [ref=e708]:
+              - link [ref=e709] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/9-11-families-honor-victims-in-emotional-tribute-digvid-vrtc
+                - generic [ref=e711]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "911 memorial name reading.png"
+                    - generic: 2:18
+              - link "9/11 families honor victims in emotional tribute":
+                - /url: /2026/09/11/us/video/9-11-families-honor-victims-in-emotional-tribute-digvid-vrtc
+            - listitem [ref=e712]:
+              - link [ref=e713] [cursor=pointer]:
+                - /url: /politics/video/all-over-the-map-colorado-eighth-district
+                - generic [ref=e715]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "AOTM CO8 Vertical FONTED.jpg"
+                    - generic: 1:33
+              - link "Could Latinos flip this Colorado district blue?":
+                - /url: /politics/video/all-over-the-map-colorado-eighth-district
+            - listitem [ref=e716]:
+              - link [ref=e717] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/911-police-officer-searching-for-baby-digvid-vrtc
+                - generic [ref=e719]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "getty.jpg"
+                    - generic: 2:28
+              - link "25 years later, Elba D’Aiuto is still searching for the baby she rescued":
+                - /url: /2026/09/11/us/video/911-police-officer-searching-for-baby-digvid-vrtc
+            - listitem [ref=e720]:
+              - link [ref=e721] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/new-cockpit-barriers-close-9-11-security-gap
+                - generic [ref=e723]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Cockpit barriers THUMB CLEAN.jpg"
+                    - generic: 0:51
+              - link "New cockpit barriers close a 9/11 security gap":
+                - /url: /2026/09/11/us/video/new-cockpit-barriers-close-9-11-security-gap
+            - listitem [ref=e724]:
+              - link [ref=e725] [cursor=pointer]:
+                - /url: /2026/09/11/entertainment/video/9-11-birthdays-are-so-not-fun
+                - generic [ref=e727]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Lindsay Cadillac is seen with her birthday cake on September 11, 2001."
+                    - generic: 1:24
+              - 'link "A birthday on 9/11: How do you celebrate that?"':
+                - /url: /2026/09/11/entertainment/video/9-11-birthdays-are-so-not-fun
+            - listitem [ref=e728]:
+              - link [ref=e729] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/911-families-saudi-arabia-trump-vrtc-ldn-digvid
+                - generic [ref=e731]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22976302 - 911 trump saudi.00_02_00_25.Still001.jpg"
+                    - generic: 1:44
+              - link "9/11 families ask Trump to release files on Saudi Arabia’s alleged role":
+                - /url: /2026/09/11/us/video/911-families-saudi-arabia-trump-vrtc-ldn-digvid
+            - listitem [ref=e732]:
+              - link [ref=e733] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/trump-denounces-iran-9-11-speech-digvid-vrtc
+                - generic [ref=e735]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Trump 9-11 Memorial. clean thumb.jpg"
+                    - generic: 0:30
+              - link "Trump denounces Iran in 9/11 speech":
+                - /url: /2026/09/11/us/video/trump-denounces-iran-9-11-speech-digvid-vrtc
+            - listitem [ref=e736]:
+              - link [ref=e737] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/former-presidents-vp-vance-together-9-11-digvid-vrtc
+                - generic [ref=e739]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "9-11 Former presidents clean thumb.jpg"
+                    - generic: 0:14
+              - link "Former Presidents, VP Vance, stand together during 9/11 moment of silence":
+                - /url: /2026/09/11/us/video/former-presidents-vp-vance-together-9-11-digvid-vrtc
+            - listitem [ref=e740]:
+              - link [ref=e741] [cursor=pointer]:
+                - /url: /2026/09/11/us/video/mamdani-giuliani-shake-hands-911-ceremony-vrtc-ldn-digvid
+                - generic [ref=e743]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22976255 - rudy madani meet VV.00_00_03_20.Still001.jpg"
+                    - generic: 0:08
+              - link "Mamdani and Giuliani shake hands at 9/11 ceremony":
+                - /url: /2026/09/11/us/video/mamdani-giuliani-shake-hands-911-ceremony-vrtc-ldn-digvid
+            - listitem [ref=e744]:
+              - link [ref=e745] [cursor=pointer]:
+                - /url: /2026/09/11/politics/video/trump-dividends-midterms-congress-vrtc-ldn-digvid
+                - generic [ref=e747]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22975735 - Trump CBS 5K.00_00_02_08.Still001.jpg"
+                    - generic: 0:48
+              - link "Trump says Congress may not need to approve $5,000 checks":
+                - /url: /2026/09/11/politics/video/trump-dividends-midterms-congress-vrtc-ldn-digvid
+            - listitem [ref=e748]:
+              - link [ref=e749] [cursor=pointer]:
+                - /url: /2026/09/11/politics/video/trump-a-palooza-republican-midterm-convention-vrtc-ldn-digvid
+                - generic [ref=e751]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22975249 - alayna rnc wrap.00_01_49_18.Still001.jpg"
+                    - generic: 2:33
+              - link "‘Trump-a-palooza’ a preview of the GOP’s future?":
+                - /url: /2026/09/11/politics/video/trump-a-palooza-republican-midterm-convention-vrtc-ldn-digvid
+            - listitem [ref=e752]:
+              - link [ref=e753] [cursor=pointer]:
+                - /url: /2026/09/11/world/video/havana-was-the-city-of-lights-its-now-pitch-black-vrtc
+                - generic [ref=e755]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "havana 1.jpg"
+                    - generic: 1:54
+              - link "Havana was the ‘city of lights’. It’s now pitch black":
+                - /url: /2026/09/11/world/video/havana-was-the-city-of-lights-its-now-pitch-black-vrtc
+            - listitem [ref=e756]:
+              - link [ref=e757] [cursor=pointer]:
+                - /url: /2026/09/10/politics/video/trump-leads-gop-convention-crowd-in-pledge-to-vote-and-cheat-like-hell-digvid-vrtc
+                - generic [ref=e759]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22975304 - TrumpPledgeToVote-thumb.jpg"
+                    - generic: 0:44
+              - link "Trump leads GOP convention crowd in pledge to vote and ‘cheat like hell’":
+                - /url: /2026/09/10/politics/video/trump-leads-gop-convention-crowd-in-pledge-to-vote-and-cheat-like-hell-digvid-vrtc
+            - listitem [ref=e760]:
+              - link [ref=e761] [cursor=pointer]:
+                - /url: /2026/09/10/politics/video/vance-el-sayed-remarks-vrtc-digvid
+                - generic [ref=e763]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "22975058 - vp on aes cln.00_01_44_04.Still001.jpg"
+                    - generic: 2:12
+              - link "Vance calls out El-Sayed over remarks about his family":
+                - /url: /2026/09/10/politics/video/vance-el-sayed-remarks-vrtc-digvid
+            - listitem [ref=e764]:
+              - link [ref=e765] [cursor=pointer]:
+                - /url: /2026/09/10/world/video/us-considering-how-to-strike-iran-facility-underground-digvid-vrtc
+                - generic [ref=e767]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Pickaxe sat images clean thumb.jpg"
+                    - generic: 1:12
+              - link "Construction surges at suspected Iranian nuclear site":
+                - /url: /2026/09/10/world/video/us-considering-how-to-strike-iran-facility-underground-digvid-vrtc
+        - heading [level=2] [ref=e771]:
+          - link "Health" [ref=e772] [cursor=pointer]:
+            - /url: https://www.cnn.com/health
+        - heading [level=2] [ref=e782]:
+          - link "Science" [ref=e783] [cursor=pointer]:
+            - /url: https://www.cnn.com/science
+        - heading "Paid Content" [level=2] [ref=e793]
+        - heading "More from CNN" [level=2] [ref=e796]
+        - heading "Paid Partner Content" [level=2] [ref=e822]
+        - generic [ref=e826]:
+          - link [ref=e828] [cursor=pointer]:
+            - /url: https://www.cnn.com/games
+            - heading "CNN Games + Quizzes" [level=2] [ref=e829]
+          - list [ref=e834]:
+            - listitem [ref=e835]:
+              - link "CNN Games card_Sudoku.jpg Sudoku" [ref=e836] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/daily-sudoku
+                - generic [ref=e838]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN Games card_Sudoku.jpg"
+                    - generic: Sudoku
+              - link "A cross-number crossword that will challenge your brain" [ref=e841] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/daily-sudoku
+            - listitem [ref=e845]:
+              - link "CNN Games card_Sudoblock.jpg Sudoblock" [ref=e846] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/sudoblock?utm_source=games_acq_web_homepage_morezone
+                - generic [ref=e848]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN Games card_Sudoblock.jpg"
+                    - generic: Sudoblock
+              - link "Sudoku + Blocks = addictive tile-matching puzzle" [ref=e851] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/sudoblock?utm_source=games_acq_web_homepage_morezone
+            - listitem [ref=e855]:
+              - link "CNN Games card_Crossword.jpg Today's crossword" [ref=e856] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/daily-crossword?utm_source=games_acq_web_homepage_morezone
+                - generic [ref=e858]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN Games card_Crossword.jpg"
+                    - generic: Today's crossword
+              - link "No pencil or eraser required" [ref=e861] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/daily-crossword?utm_source=games_acq_web_homepage_morezone
+            - listitem [ref=e865]:
+              - link "CNN Games card_JumbleCrossword.jpg Jumble Crossword" [ref=e866] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/jumble-crossword-daily
+                - generic [ref=e868]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN Games card_JumbleCrossword.jpg"
+                    - generic: Jumble Crossword
+              - link "Test your smarts with this scrambled word game" [ref=e871] [cursor=pointer]:
+                - /url: https://www.cnn.com/games/play/jumble-crossword-daily
+        - heading "In case you missed it" [level=2] [ref=e878]
+    - contentinfo [ref=e887]:
+      - generic [ref=e888]:
+        - search [ref=e890]:
+          - textbox "Search" [ref=e891]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e892]
+        - navigation [ref=e894]:
+          - list [ref=e895]:
+            - listitem [ref=e896]:
+              - link "US" [ref=e897] [cursor=pointer]:
+                - /url: https://www.cnn.com/us
+              - list [ref=e898]:
+                - listitem [ref=e899]:
+                  - link "US Crime & Justice" [ref=e900] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/crime-and-justice
+                    - text: Crime & Justice
+                - listitem [ref=e901]:
+                  - link "US Immigration" [ref=e902] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/immigration
+                    - text: Immigration
+                - listitem [ref=e903]:
+                  - link "US Education" [ref=e904] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/education
+                    - text: Education
+                - listitem [ref=e905]:
+                  - link "US Transportation" [ref=e906] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/transportation
+                    - text: Transportation
+                - listitem [ref=e907]:
+                  - link "US Race & Identity" [ref=e908] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/race-and-identity
+                    - text: Race & Identity
+            - listitem [ref=e909]:
+              - link "World" [ref=e910] [cursor=pointer]:
+                - /url: https://www.cnn.com/world
+              - list [ref=e911]:
+                - listitem [ref=e912]:
+                  - link "World Africa" [ref=e913] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/africa
+                    - text: Africa
+                - listitem [ref=e914]:
+                  - link "World Americas" [ref=e915] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/americas
+                    - text: Americas
+                - listitem [ref=e916]:
+                  - link "World Asia" [ref=e917] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/asia
+                    - text: Asia
+                - listitem [ref=e918]:
+                  - link "World Australia" [ref=e919] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/australia
+                    - text: Australia
+                - listitem [ref=e920]:
+                  - link "World China" [ref=e921] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/china
+                    - text: China
+                - listitem [ref=e922]:
+                  - link "World Europe" [ref=e923] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/europe
+                    - text: Europe
+                - listitem [ref=e924]:
+                  - link "World India" [ref=e925] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/india
+                    - text: India
+                - listitem [ref=e926]:
+                  - link "World Middle East" [ref=e927] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/middle-east
+                    - text: Middle East
+                - listitem [ref=e928]:
+                  - link "World United Kingdom" [ref=e929] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/united-kingdom
+                    - text: United Kingdom
+            - listitem [ref=e930]:
+              - link "Politics" [ref=e931] [cursor=pointer]:
+                - /url: https://www.cnn.com/politics
+              - list [ref=e932]:
+                - listitem [ref=e933]:
+                  - link "Politics Elections 2026" [ref=e934] [cursor=pointer]:
+                    - /url: https://www.cnn.com/election/2026
+                    - text: Elections 2026
+                - listitem [ref=e935]:
+                  - link "Politics Trump" [ref=e936] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/president-donald-trump-47
+                    - text: Trump
+                - listitem [ref=e937]:
+                  - link "Politics Facts First" [ref=e938] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/fact-check
+                    - text: Facts First
+                - listitem [ref=e939]:
+                  - link "Politics CNN Polls" [ref=e940] [cursor=pointer]:
+                    - /url: https://www.cnn.com/polling
+                    - text: CNN Polls
+                - listitem [ref=e941]:
+                  - link "Politics Redistricting Tracker" [ref=e942] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/state-redistricting-maps-vis/index.html
+                    - text: Redistricting Tracker
+                - listitem [ref=e943]:
+                  - link "Politics Epstein Files" [ref=e944] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/epstein-files
+                    - text: Epstein Files
+            - listitem [ref=e945]:
+              - link "Business" [ref=e946] [cursor=pointer]:
+                - /url: https://www.cnn.com/business
+              - list [ref=e947]:
+                - listitem [ref=e948]:
+                  - link "Business Tech" [ref=e949] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/tech
+                    - text: Tech
+                - listitem [ref=e950]:
+                  - link "Business Media" [ref=e951] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/media
+                    - text: Media
+                - listitem [ref=e952]:
+                  - link "Business Calculators" [ref=e953] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/financial-calculators
+                    - text: Calculators
+                - listitem [ref=e954]:
+                  - link "Business Videos" [ref=e955] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/videos
+                    - text: Videos
+            - listitem [ref=e956]:
+              - link "Markets" [ref=e957] [cursor=pointer]:
+                - /url: https://www.cnn.com/markets
+              - list [ref=e958]:
+                - listitem [ref=e959]:
+                  - link "Markets Pre-markets" [ref=e960] [cursor=pointer]:
+                    - /url: https://www.cnn.com/markets/premarkets
+                    - text: Pre-markets
+                - listitem [ref=e961]:
+                  - link "Markets After-Hours" [ref=e962] [cursor=pointer]:
+                    - /url: https://www.cnn.com/markets/after-hours
+                    - text: After-Hours
+                - listitem [ref=e963]:
+                  - link "Markets Fear & Greed" [ref=e964] [cursor=pointer]:
+                    - /url: https://www.cnn.com/markets/fear-and-greed
+                    - text: Fear & Greed
+                - listitem [ref=e965]:
+                  - link "Markets Investing" [ref=e966] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/investing
+                    - text: Investing
+            - listitem [ref=e967]:
+              - link "Health" [ref=e968] [cursor=pointer]:
+                - /url: https://www.cnn.com/health
+              - list [ref=e969]:
+                - listitem [ref=e970]:
+                  - link "Health Life, But Better" [ref=e971] [cursor=pointer]:
+                    - /url: https://www.cnn.com/interactive/life-but-better/
+                    - text: Life, But Better
+                - listitem [ref=e972]:
+                  - link "Health Fitness" [ref=e973] [cursor=pointer]:
+                    - /url: https://www.cnn.com/health/life-but-better/fitness
+                    - text: Fitness
+                - listitem [ref=e974]:
+                  - link "Health Food" [ref=e975] [cursor=pointer]:
+                    - /url: https://www.cnn.com/health/life-but-better/food
+                    - text: Food
+                - listitem [ref=e976]:
+                  - link "Health Sleep" [ref=e977] [cursor=pointer]:
+                    - /url: https://www.cnn.com/health/life-but-better/sleep
+                    - text: Sleep
+                - listitem [ref=e978]:
+                  - link "Health Mindfulness" [ref=e979] [cursor=pointer]:
+                    - /url: https://www.cnn.com/health/life-but-better/mindfulness
+                    - text: Mindfulness
+                - listitem [ref=e980]:
+                  - link "Health Relationships" [ref=e981] [cursor=pointer]:
+                    - /url: https://www.cnn.com/health/life-but-better/relationships
+                    - text: Relationships
+            - listitem [ref=e982]:
+              - link "CNN Underscored" [ref=e983] [cursor=pointer]:
+                - /url: https://www.cnn.com/cnn-underscored
+              - list [ref=e984]:
+                - listitem [ref=e985]:
+                  - link "CNN Underscored Electronics" [ref=e986] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/electronics
+                    - text: Electronics
+                - listitem [ref=e987]:
+                  - link "CNN Underscored Fashion" [ref=e988] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/fashion
+                    - text: Fashion
+                - listitem [ref=e989]:
+                  - link "CNN Underscored Beauty" [ref=e990] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/beauty
+                    - text: Beauty
+                - listitem [ref=e991]:
+                  - link "CNN Underscored Health & Fitness" [ref=e992] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/health-fitness
+                    - text: Health & Fitness
+                - listitem [ref=e993]:
+                  - link "CNN Underscored Home" [ref=e994] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/home
+                    - text: Home
+                - listitem [ref=e995]:
+                  - link "CNN Underscored Reviews" [ref=e996] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/reviews
+                    - text: Reviews
+                - listitem [ref=e997]:
+                  - link "CNN Underscored Deals" [ref=e998] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/deals
+                    - text: Deals
+                - listitem [ref=e999]:
+                  - link "CNN Underscored Money" [ref=e1000] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/money
+                    - text: Money
+                - listitem [ref=e1001]:
+                  - link "CNN Underscored Gifts" [ref=e1002] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/gifts
+                    - text: Gifts
+                - listitem [ref=e1003]:
+                  - link "CNN Underscored Travel" [ref=e1004] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/travel
+                    - text: Travel
+                - listitem [ref=e1005]:
+                  - link "CNN Underscored Outdoors" [ref=e1006] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/outdoors
+                    - text: Outdoors
+                - listitem [ref=e1007]:
+                  - link "CNN Underscored Pets" [ref=e1008] [cursor=pointer]:
+                    - /url: https://www.cnn.com/cnn-underscored/pets
+                    - text: Pets
+            - listitem [ref=e1009]:
+              - link "Entertainment" [ref=e1010] [cursor=pointer]:
+                - /url: https://www.cnn.com/entertainment
+              - list [ref=e1011]:
+                - listitem [ref=e1012]:
+                  - link "Entertainment Movies" [ref=e1013] [cursor=pointer]:
+                    - /url: https://www.cnn.com/entertainment/movies
+                    - text: Movies
+                - listitem [ref=e1014]:
+                  - link "Entertainment Television" [ref=e1015] [cursor=pointer]:
+                    - /url: https://www.cnn.com/entertainment/tv-shows
+                    - text: Television
+                - listitem [ref=e1016]:
+                  - link "Entertainment Celebrity" [ref=e1017] [cursor=pointer]:
+                    - /url: https://www.cnn.com/entertainment/celebrities
+                    - text: Celebrity
+            - listitem [ref=e1018]:
+              - link "Tech" [ref=e1019] [cursor=pointer]:
+                - /url: https://www.cnn.com/business/tech
+              - list [ref=e1020]:
+                - listitem [ref=e1021]:
+                  - link "Tech Innovate" [ref=e1022] [cursor=pointer]:
+                    - /url: https://www.cnn.com/business/tech/innovate
+                    - text: Innovate
+            - listitem [ref=e1023]:
+              - link "Style" [ref=e1024] [cursor=pointer]:
+                - /url: https://www.cnn.com/style
+              - list [ref=e1025]:
+                - listitem [ref=e1026]:
+                  - link "Style Arts" [ref=e1027] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/arts
+                    - text: Arts
+                - listitem [ref=e1028]:
+                  - link "Style Design" [ref=e1029] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/design
+                    - text: Design
+                - listitem [ref=e1030]:
+                  - link "Style Fashion" [ref=e1031] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/fashion
+                    - text: Fashion
+                - listitem [ref=e1032]:
+                  - link "Style Architecture" [ref=e1033] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/architecture
+                    - text: Architecture
+                - listitem [ref=e1034]:
+                  - link "Style Luxury" [ref=e1035] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/luxury
+                    - text: Luxury
+                - listitem [ref=e1036]:
+                  - link "Style Beauty" [ref=e1037] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/beauty
+                    - text: Beauty
+                - listitem [ref=e1038]:
+                  - link "Style Video" [ref=e1039] [cursor=pointer]:
+                    - /url: https://www.cnn.com/style/videos
+                    - text: Video
+            - listitem [ref=e1040]:
+              - link "Travel" [ref=e1041] [cursor=pointer]:
+                - /url: https://www.cnn.com/travel
+              - list [ref=e1042]:
+                - listitem [ref=e1043]:
+                  - link "Travel Destinations" [ref=e1044] [cursor=pointer]:
+                    - /url: https://www.cnn.com/travel/destinations
+                    - text: Destinations
+                - listitem [ref=e1045]:
+                  - link "Travel Food & Drink" [ref=e1046] [cursor=pointer]:
+                    - /url: https://www.cnn.com/travel/food-and-drink
+                    - text: Food & Drink
+                - listitem [ref=e1047]:
+                  - link "Travel Stay" [ref=e1048] [cursor=pointer]:
+                    - /url: https://www.cnn.com/travel/stay
+                    - text: Stay
+                - listitem [ref=e1049]:
+                  - link "Travel News" [ref=e1050] [cursor=pointer]:
+                    - /url: https://www.cnn.com/travel/news
+                    - text: News
+                - listitem [ref=e1051]:
+                  - link "Travel Videos" [ref=e1052] [cursor=pointer]:
+                    - /url: https://www.cnn.com/travel/videos
+                    - text: Videos
+            - listitem [ref=e1053]:
+              - link "Sports" [ref=e1054] [cursor=pointer]:
+                - /url: https://www.cnn.com/sports
+              - list [ref=e1055]:
+                - listitem [ref=e1056]:
+                  - link "Sports NFL" [ref=e1057] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/nfl
+                    - text: NFL
+                - listitem [ref=e1058]:
+                  - link "Sports NBA" [ref=e1059] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/nba
+                    - text: NBA
+                - listitem [ref=e1060]:
+                  - link "Sports MLB" [ref=e1061] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/mlb
+                    - text: MLB
+                - listitem [ref=e1062]:
+                  - link "Sports WNBA" [ref=e1063] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/wnba
+                    - text: WNBA
+                - listitem [ref=e1064]:
+                  - link "Sports Golf" [ref=e1065] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/golf
+                    - text: Golf
+                - listitem [ref=e1066]:
+                  - link "Sports Soccer" [ref=e1067] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/soccer
+                    - text: Soccer
+                - listitem [ref=e1068]:
+                  - link "Sports Tennis" [ref=e1069] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/tennis
+                    - text: Tennis
+                - listitem [ref=e1070]:
+                  - link "Sports Motorsport" [ref=e1071] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/motorsport
+                    - text: Motorsport
+                - listitem [ref=e1072]:
+                  - link "Sports College Sports" [ref=e1073] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/college-sports
+                    - text: College Sports
+                - listitem [ref=e1074]:
+                  - link "Sports Olympics" [ref=e1075] [cursor=pointer]:
+                    - /url: https://www.cnn.com/sport/milan-cortina-winter-olympics-2026
+                    - text: Olympics
+                - listitem [ref=e1076]:
+                  - link "Sports Bleacher Report" [ref=e1077] [cursor=pointer]:
+                    - /url: https://bleacherreport.com/
+                    - text: Bleacher Report
+            - listitem [ref=e1078]:
+              - link "Science" [ref=e1079] [cursor=pointer]:
+                - /url: https://www.cnn.com/science
+              - list [ref=e1080]:
+                - listitem [ref=e1081]:
+                  - link "Science Space" [ref=e1082] [cursor=pointer]:
+                    - /url: https://www.cnn.com/science/space
+                    - text: Space
+                - listitem [ref=e1083]:
+                  - link "Science Life" [ref=e1084] [cursor=pointer]:
+                    - /url: https://www.cnn.com/science/life
+                    - text: Life
+                - listitem [ref=e1085]:
+                  - link "Science Unearthed" [ref=e1086] [cursor=pointer]:
+                    - /url: https://www.cnn.com/science/unearthed
+                    - text: Unearthed
+            - listitem [ref=e1087]:
+              - link "Climate" [ref=e1088] [cursor=pointer]:
+                - /url: https://www.cnn.com/climate
+              - list [ref=e1089]:
+                - listitem [ref=e1090]:
+                  - link "Climate Solutions" [ref=e1091] [cursor=pointer]:
+                    - /url: https://www.cnn.com/climate/solutions
+                    - text: Solutions
+                - listitem [ref=e1092]:
+                  - link "Climate Weather" [ref=e1093] [cursor=pointer]:
+                    - /url: https://www.cnn.com/weather
+                    - text: Weather
+            - listitem [ref=e1094]:
+              - link "Weather" [ref=e1095] [cursor=pointer]:
+                - /url: https://www.cnn.com/weather
+              - list [ref=e1096]:
+                - listitem [ref=e1097]:
+                  - link "Weather Video" [ref=e1098] [cursor=pointer]:
+                    - /url: https://www.cnn.com/weather/video
+                    - text: Video
+                - listitem [ref=e1099]:
+                  - link "Weather Climate" [ref=e1100] [cursor=pointer]:
+                    - /url: https://www.cnn.com/climate
+                    - text: Climate
+            - listitem [ref=e1101]:
+              - link "Ukraine-Russia War" [ref=e1102] [cursor=pointer]:
+                - /url: https://www.cnn.com/world/europe/ukraine
+              - list
+            - listitem [ref=e1103]:
+              - link "Israel-Hamas War" [ref=e1104] [cursor=pointer]:
+                - /url: https://www.cnn.com/world/middleeast/israel
+              - list
+            - listitem [ref=e1105]:
+              - link "Watch" [ref=e1106] [cursor=pointer]:
+                - /url: https://www.cnn.com/watch
+              - list [ref=e1107]:
+                - listitem [ref=e1108]:
+                  - link "Watch Featured" [ref=e1109] [cursor=pointer]:
+                    - /url: https://www.cnn.com/watch
+                    - text: Featured
+                - listitem [ref=e1110]:
+                  - link "Watch Shows & Films" [ref=e1111] [cursor=pointer]:
+                    - /url: https://www.cnn.com/watch#shows-films
+                    - text: Shows & Films
+                - listitem [ref=e1112]:
+                  - link "Watch Network TV" [ref=e1113] [cursor=pointer]:
+                    - /url: https://www.cnn.com/videos/live
+                    - text: Network TV
+                - listitem [ref=e1114]:
+                  - link "Watch Clips" [ref=e1115] [cursor=pointer]:
+                    - /url: https://www.cnn.com/videos
+                    - text: Clips
+                - listitem [ref=e1116]:
+                  - link "Watch CNN Headlines" [ref=e1117] [cursor=pointer]:
+                    - /url: https://www.cnn.com/videos/fast/cnn-headlines
+                    - text: CNN Headlines
+                - listitem [ref=e1118]:
+                  - link "Watch Shows A-Z" [ref=e1119] [cursor=pointer]:
+                    - /url: https://www.cnn.com/tv/all-shows
+                    - text: Shows A-Z
+                - listitem [ref=e1120]:
+                  - link "Watch CNN 10" [ref=e1121] [cursor=pointer]:
+                    - /url: https://www.cnn10.com
+                    - text: CNN 10
+                - listitem [ref=e1122]:
+                  - link "Watch CNN TV Schedule" [ref=e1123] [cursor=pointer]:
+                    - /url: https://www.cnn.com/tv/schedule/cnn
+                    - text: CNN TV Schedule
+            - listitem [ref=e1124]:
+              - link "Listen" [ref=e1125] [cursor=pointer]:
+                - /url: https://www.cnn.com/audio
+              - list [ref=e1126]:
+                - listitem [ref=e1127]:
+                  - link "Listen All There Is with Anderson Cooper" [ref=e1128] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+                    - text: All There Is with Anderson Cooper
+                - listitem [ref=e1129]:
+                  - link "Listen Chasing Life with Dr. Sanjay Gupta" [ref=e1130] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio/podcasts/chasing-life
+                    - text: Chasing Life with Dr. Sanjay Gupta
+                - listitem [ref=e1131]:
+                  - link "Listen The Assignment with Audie Cornish" [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio/podcasts/the-assignment
+                    - text: The Assignment with Audie Cornish
+                - listitem [ref=e1133]:
+                  - link "Listen Terms of Service with Clare Duffy" [ref=e1134] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy
+                    - text: Terms of Service with Clare Duffy
+                - listitem [ref=e1135]:
+                  - link "Listen CNN 5 Things" [ref=e1136] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio/podcasts/5-things
+                    - text: CNN 5 Things
+                - listitem [ref=e1137]:
+                  - link "Listen All CNN Podcasts" [ref=e1138] [cursor=pointer]:
+                    - /url: https://www.cnn.com/audio
+                    - text: All CNN Podcasts
+            - listitem [ref=e1139]:
+              - link "Games" [ref=e1140] [cursor=pointer]:
+                - /url: https://www.cnn.com/games
+              - list [ref=e1141]:
+                - listitem [ref=e1142]:
+                  - link "Games Daily Crossword" [ref=e1143] [cursor=pointer]:
+                    - /url: https://www.cnn.com/games/play/cnn-crossword
+                    - text: Daily Crossword
+                - listitem [ref=e1144]:
+                  - link "Games Jumble Crossword" [ref=e1145] [cursor=pointer]:
+                    - /url: https://www.cnn.com/games/play/jumble-crossword-daily
+                    - text: Jumble Crossword
+                - listitem [ref=e1146]:
+                  - link "Games Photo Shuffle" [ref=e1147] [cursor=pointer]:
+                    - /url: https://www.cnn.com/games/play/photo-shuffle
+                    - text: Photo Shuffle
+                - listitem [ref=e1148]:
+                  - link "Games Sudoblock" [ref=e1149] [cursor=pointer]:
+                    - /url: https://www.cnn.com/games/play/sudoblock
+                    - text: Sudoblock
+                - listitem [ref=e1150]:
+                  - link "Games Sudoku" [ref=e1151] [cursor=pointer]:
+                    - /url: https://www.cnn.com/games/play/daily-sudoku
+                    - text: Sudoku
+                - listitem [ref=e1152]:
+                  - link "Games 5 Things Quiz" [ref=e1153] [cursor=pointer]:
+                    - /url: https://cnn.it/5thingsquiz
+                    - text: 5 Things Quiz
+            - listitem [ref=e1154]:
+              - link "About CNN" [ref=e1155] [cursor=pointer]:
+                - /url: https://www.cnn.com/about
+              - list [ref=e1156]:
+                - listitem [ref=e1157]:
+                  - link "About CNN Subscribe" [ref=e1158] [cursor=pointer]:
+                    - /url: https://www.cnn.com/subscription?source=sub_web_footersubnav-link
+                    - text: Subscribe
+                - listitem [ref=e1159]:
+                  - link "About CNN Photos" [ref=e1160] [cursor=pointer]:
+                    - /url: https://www.cnn.com/world/photos
+                    - text: Photos
+                - listitem [ref=e1161]:
+                  - link "About CNN Investigations" [ref=e1162] [cursor=pointer]:
+                    - /url: https://www.cnn.com/us/cnn-investigates
+                    - text: Investigations
+                - listitem [ref=e1163]:
+                  - link "About CNN CNN Profiles" [ref=e1164] [cursor=pointer]:
+                    - /url: https://www.cnn.com/profiles
+                    - text: CNN Profiles
+                - listitem [ref=e1165]:
+                  - link "About CNN CNN Leadership" [ref=e1166] [cursor=pointer]:
+                    - /url: https://www.cnn.com/profiles/cnn-leadership
+                    - text: CNN Leadership
+                - listitem [ref=e1167]:
+                  - link "About CNN CNN Newsletters" [ref=e1168] [cursor=pointer]:
+                    - /url: https://www.cnn.com/newsletters
+                    - text: CNN Newsletters
+                - listitem [ref=e1169]:
+                  - link "About CNN Work for CNN" [ref=e1170] [cursor=pointer]:
+                    - /url: https://careers.wbd.com/cnnjobs
+                    - text: Work for CNN
+        - separator [ref=e1171]
+        - generic [ref=e1172]:
+          - link "CNN logo" [ref=e1175] [cursor=pointer]:
+            - /url: https://www.cnn.com
+          - generic [ref=e1183]:
+            - link "Video" [ref=e1184] [cursor=pointer]:
+              - /url: https://www.cnn.com/watch
+              - text: Watch
+            - link "Audio" [ref=e1185] [cursor=pointer]:
+              - /url: https://www.cnn.com/audio
+              - text: Listen
+            - separator [ref=e1186]
+            - link "Subscribe Button" [ref=e1187] [cursor=pointer]: Subscribe
+            - navigation "User Account Nav" [ref=e1189]:
+              - link "User Account Log In Button" [ref=e1191] [cursor=pointer]: Sign in
+            - generic [ref=e1192]:
+              - generic [ref=e1193]:
+                - generic [ref=e1194]: Follow CNN
+                - list [ref=e1195]:
+                  - listitem [ref=e1196]:
+                    - link "Visit us on Facebook" [ref=e1197] [cursor=pointer]:
+                      - /url: https://facebook.com/CNN
+                  - listitem [ref=e1200]:
+                    - link "Visit us on X" [ref=e1201] [cursor=pointer]:
+                      - /url: https://twitter.com/CNN
+                  - listitem [ref=e1204]:
+                    - link "Visit us on Instagram" [ref=e1205] [cursor=pointer]:
+                      - /url: https://instagram.com/CNN
+                  - listitem [ref=e1208]:
+                    - link [ref=e1209] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@cnn?lang=en
+                      - img "TikTok" [ref=e1210]
+                  - listitem [ref=e1212]:
+                    - link [ref=e1213] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cnn
+                      - img "LinkedIn" [ref=e1214]
+                  - listitem [ref=e1216]:
+                    - link "Visit us on Threads" [ref=e1217] [cursor=pointer]:
+                      - /url: https://www.threads.com/@cnn
+              - separator [ref=e1221]
+              - generic [ref=e1222]:
+                - generic [ref=e1223]: Download the CNN app
+                - generic [ref=e1224]:
+                  - link "Download on Apple App Store" [ref=e1225] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+                  - link "Get it on Google Play" [ref=e1261] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+        - separator [ref=e1277]
+        - navigation [ref=e1278]:
+          - link "Terms of Use" [ref=e1279] [cursor=pointer]:
+            - /url: https://www.cnn.com/terms
+          - link "Privacy Policy" [ref=e1280] [cursor=pointer]:
+            - /url: https://www.cnn.com/privacy
+          - link "Manage Cookies" [ref=e1281] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e1282] [cursor=pointer]:
+            - /url: https://www.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e1283] [cursor=pointer]:
+            - /url: https://www.cnn.com/accessibility
+          - link "About" [ref=e1284] [cursor=pointer]:
+            - /url: https://www.cnn.com/about
+          - link "Subscribe" [ref=e1285] [cursor=pointer]:
+            - /url: https://www.cnn.com/subscription?source=sub_web_footerlink-link
+          - link "Newsletters" [ref=e1286] [cursor=pointer]:
+            - /url: https://www.cnn.com/newsletters
+          - link "Transcripts" [ref=e1287] [cursor=pointer]:
+            - /url: https://www.cnn.com/transcripts
+          - link "Help Center" [ref=e1288] [cursor=pointer]:
+            - /url: https://help.cnn.com/
+          - link "Sitemap" [ref=e1289] [cursor=pointer]:
+            - /url: https://www.cnn.com/sitemap
+        - paragraph [ref=e1290]: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
+  - dialog [ref=e1292]:
+    - heading [level=2] [ref=e1294]: Legal Terms and Privacy
+    - document [ref=e1295]:
+      - text: By clicking "Agree", you agree to the
+      - link [ref=e1296] [cursor=pointer]:
+        - /url: /terms
+        - text: Terms of Use
+      - text: and to the collection and use of your information by cookies and similar technologies, as set forth in our
+      - link [ref=e1297] [cursor=pointer]:
+        - /url: /privacy
+        - text: Privacy Policy
+      - text: . Accepting does not impact privacy choices you may have under state laws. Learn more in our
+      - link [ref=e1298] [cursor=pointer]:
+        - /url: /usstatesupplement
+        - text: US State Supplement
+      - text: .
+    - button [ref=e1299] [cursor=pointer]: Agree
