@@ -19,10 +19,22 @@ export default function HookGrid({ hooks }: { hooks: readonly Hook[] }) {
 
   return (
     <div className="flex flex-col gap-8">
-      <div>
+      <div className="relative w-full max-w-md">
         <label htmlFor="hook-search" className="sr-only">
           Search hooks
         </label>
+        <svg
+          aria-hidden
+          viewBox="0 0 20 20"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="1.75"
+          strokeLinecap="round"
+          className="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-accent"
+        >
+          <circle cx="8.5" cy="8.5" r="5.5" />
+          <path d="m13 13 4 4" />
+        </svg>
         <input
           id="hook-search"
           type="search"
@@ -30,7 +42,7 @@ export default function HookGrid({ hooks }: { hooks: readonly Hook[] }) {
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search by name or description…"
           autoComplete="off"
-          className="w-full max-w-md rounded-lg border border-card-border bg-card px-4 py-2.5 text-sm placeholder:text-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
+          className="w-full rounded-lg border border-card-border bg-card py-2.5 pr-4 pl-10 text-sm shadow-sm shadow-accent/5 transition-colors placeholder:text-muted hover:border-accent focus-visible:border-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
         />
       </div>
 
@@ -43,8 +55,8 @@ export default function HookGrid({ hooks }: { hooks: readonly Hook[] }) {
           ))}
         </ul>
       ) : (
-        <p className="rounded-xl border border-dashed border-card-border px-6 py-16 text-center text-muted">
-          No hooks match “{query.trim()}”.
+        <p className="rounded-xl border border-dashed border-card-border bg-card-muted px-6 py-16 text-center text-muted">
+          No hooks match “<span className="font-medium text-accent">{query.trim()}</span>”.
         </p>
       )}
     </div>

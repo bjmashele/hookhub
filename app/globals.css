@@ -1,25 +1,32 @@
 @import "tailwindcss";
 
+/* Teal palette. Every text pairing below clears 4.5:1 in its theme. */
 :root {
   color-scheme: light dark;
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f5fbfa;
+  --foreground: #042f2e;
   --card: #ffffff;
-  --card-muted: #f4f4f5; /* badge and code-chip fill */
-  --card-border: #e4e4e7;
-  --muted: #71717a;
-  --accent: #4f46e5; /* links, focus ring */
+  --card-muted: #f0fdfa; /* code-chip fill */
+  --card-border: #b5dcd5;
+  --muted: #4a6b67;
+  --accent: #0f766e; /* links, focus ring, hover border */
+  --badge: #ccfbf1; /* category badge fill */
+  --badge-foreground: #115e59;
+  --hero: #ccfbf1; /* top of the header wash */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-    --card: #111113;
-    --card-muted: #18181b;
-    --card-border: #27272a;
-    --muted: #a1a1aa;
-    --accent: #818cf8;
+    --background: #041816;
+    --foreground: #e2f3f1;
+    --card: #0a2320;
+    --card-muted: #0e302c;
+    --card-border: #1d4a45;
+    --muted: #93b8b3;
+    --accent: #2dd4bf;
+    --badge: #134e4a;
+    --badge-foreground: #99f6e4;
+    --hero: #0b3a36;
   }
 }
 
@@ -31,6 +38,9 @@
   --color-card-border: var(--card-border);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
+  --color-badge: var(--badge);
+  --color-badge-foreground: var(--badge-foreground);
+  --color-hero: var(--hero);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -39,4 +49,9 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--badge);
+  color: var(--badge-foreground);
 }
