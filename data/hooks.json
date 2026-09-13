@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "dangerous-command-guard",
+    "name": "Dangerous Command Guard",
+    "category": "security",
+    "description": "Intercepts tool calls before they run and blocks destructive commands like rm -rf along with reads of .env files that hold secrets.",
+    "event": "PreToolUse",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/pre_tool_use.py"
+  },
+  {
+    "slug": "ruff-validator",
+    "name": "Ruff Validator",
+    "category": "testing",
+    "description": "Lints every Python file Claude writes with ruff check and blocks with the lint output so Claude fixes the errors.",
+    "event": "PostToolUse",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/validators/ruff_validator.py"
+  },
+  {
+    "slug": "type-check-validator",
+    "name": "Type Check Validator",
+    "category": "testing",
+    "description": "Runs Astral's ty type checker on each file after a write and feeds type errors back to Claude to retry.",
+    "event": "PostToolUse",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/validators/ty_validator.py"
+  },
+  {
+    "slug": "tts-completion-announcer",
+    "name": "TTS Completion Announcer",
+    "category": "notifications",
+    "description": "Speaks a short spoken message when Claude finishes responding, using ElevenLabs, OpenAI, or offline pyttsx3 voices.",
+    "event": "Stop",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/stop.py"
+  },
+  {
+    "slug": "subagent-completion-announcer",
+    "name": "Subagent Completion Announcer",
+    "category": "notifications",
+    "description": "Summarizes what a finished subagent did and reads it aloud, queueing voices so parallel agents don't talk over each other.",
+    "event": "SubagentStop",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/subagent_stop.py"
+  },
+  {
+    "slug": "session-context-loader",
+    "name": "Session Context Loader",
+    "category": "context",
+    "description": "Injects the current git branch, uncommitted change count, TODO files, and open GitHub issues at the start of every session.",
+    "event": "SessionStart",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/session_start.py"
+  },
+  {
+    "slug": "transcript-backup",
+    "name": "Transcript Backup",
+    "category": "observability",
+    "description": "Copies the session transcript to a timestamped JSONL backup before the conversation is compacted, so no history is lost.",
+    "event": "PreCompact",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/pre_compact.py"
+  },
+  {
+    "slug": "permission-auditor",
+    "name": "Permission Auditor",
+    "category": "security",
+    "description": "Logs every permission dialog and auto-approves read-only tools such as Read, Grep, git status, and ls.",
+    "event": "PermissionRequest",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/hooks/permission_request.py"
+  },
+  {
+    "slug": "attention-sound",
+    "name": "Attention Sound",
+    "category": "notifications",
+    "description": "Plays an audio alert, or speaks aloud on macOS, whenever your agent is waiting on you for input.",
+    "event": "Notification",
+    "repoUrl": "https://github.com/pascalporedda/awesome-claude-code/blob/main/.claude/hooks/notification.ts"
+  }
+]
